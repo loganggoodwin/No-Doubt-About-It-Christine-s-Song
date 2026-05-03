@@ -31,9 +31,7 @@ This song is about:
 │   └── no-doubt-about-it-christines-song.mp4
 └── docs/
     ├── lyrics.md
-    ├── suno-style-prompt.md
-    └── project-notes.md
-```
+    ```
 
 ## How to Use
 
